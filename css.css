@@ -1,0 +1,34 @@
+body{
+    background: light-grey;
+    color: #121212;
+}
+
+h3{margin: 0;}
+
+.name{
+    font-size: 50px;
+    background-color: black;
+    text-align: center;
+    color: #ececec;
+}
+
+.profile-container{
+    width: 50%;
+    float: left;
+}
+
+.contact-container{
+    width: 50%;
+    float: left;
+}
+
+.profile{
+    width: 150px;
+    margin: 20px;
+    float: left;
+}
+
+.bio{
+    width:500px;
+}
+
